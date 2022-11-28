@@ -1,0 +1,12 @@
+scikit-learn
+plotly
+matplotlib
+numpy
+pandas
+mlrose-hiive
+scipy
+seaborn
+spacy
+nltk
+networkx
+mdptoolbox-hiive
